@@ -4,3 +4,5 @@ print("hello")
 for  i in np.arange(0,5,1):
     if i < 3:
         print(f"{i} is lower than 3)")
+    else:
+        print(f"{i} is higher or equal than 3")
